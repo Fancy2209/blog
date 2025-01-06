@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Expect mostly stuff related to Adobe Flash/AIR ecosystem and porting apps consoles with Homebrew, mainly the Wii for now.
